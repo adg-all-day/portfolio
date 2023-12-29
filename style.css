@@ -385,9 +385,27 @@ li a:hover {
     
 }
 
-@media (max width: 450px){
+@media (max-width: 450px){
     .profilepic{
-        height: 180px;
-        width: 180px;
+        height: 220px;
+        width: 220px;
+        margin-left: 70px;
+        margin-top: 10px;
+    }
+
+    .adgallday{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        margin-left: -10px;
+    }
+
+    .namespan,
+    .myname{
+        font-size: 40px;
+        display: inline-block;
+    }
+
+    .description{
+        width: 360px;
     }
 }
