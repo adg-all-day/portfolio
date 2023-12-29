@@ -384,3 +384,10 @@ li a:hover {
     margin-top: 5px;
     
 }
+
+@media (max width: 450px){
+    .profilepic{
+        height: 180px;
+        width: 180px;
+    }
+}
