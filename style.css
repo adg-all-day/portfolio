@@ -299,7 +299,7 @@ li a:hover {
         padding: 0 4.4rem;
     }
     .main h3 {
-        color: #000;
+        color: white;
         margin-top: 1rem;
     }
 }
@@ -408,4 +408,9 @@ li a:hover {
     .description{
         width: 360px;
     }
+
+    .hi{
+        color: white;
+    }
 }
+    
